@@ -1,12 +1,12 @@
-var oSongName = "Patience";
-var oGenre = "Acoustic rock";
-var oSinger = "Guns N' Roses";
-var oYearOfRelease = "April 1989";
-var oRecorded = "1988";
-var oProducer = "Guns N' Roses, " + "Mike Clink & " + " ‎John Shanks" ;
-var oReleaseFormat = "Vinyl, cassette";
-var oLabel = "Geffen";
-var oPlayTime = "5:56";
+var oSongName = "Patience",
+    oGenre = "Acoustic rock",
+    oSinger = "Guns N' Roses",
+    oYearOfRelease = "April 1989",
+    oRecorded = "1988",
+    oProducer = "Guns N' Roses, " + "Mike Clink & " + " ‎John Shanks" ,
+    oReleaseFormat = "Vinyl, cassette",
+    oLabel = "Geffen",
+    oPlayTime = "5:56";
 
 console.log(oSongName);
 console.log(oGenre);
