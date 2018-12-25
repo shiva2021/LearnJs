@@ -21,7 +21,7 @@ var myObject = {
     }
 };
 
-myObject[2] = 'Chaturvedi';
+myObject[2] = 'Test Value';
 myObject[6] = 'Ashton';
 
 console.log(myObject);
